@@ -132,7 +132,7 @@ fcitx5-remote -r
 | `[Menu/Highlight] Color` | 菜单选中项 | `#007affff` | `#0a84ffff` |
 
 - **改高亮色**：编辑 `[InputPanel] HighlightBackgroundColor`（`#RRGGBBAA`，末两位透明度）。
-- **改模糊程度/透明度**：Blur 版的面板透明度在各自 `panel.svg` 的 `fill-opacity`（当前 `0.80`，越小越透）。
+- **改模糊程度/透明度**：Blur 版的面板透明度在各自 `panel.svg` 的 `fill-opacity`（当前 `0.65`，越小越透）。
 
 ## 📄 许可证
 
